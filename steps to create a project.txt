@@ -1,0 +1,31 @@
+steps to create a project :
+
+1:create demo pages for the 
+	shopping 
+	employees 
+	manager
+2:prepare the db queriers
+
+3:create a maven project and configure to java 1.8
+
+4:configure web.xml and pom.xml
+
+5:configure spring mvc
+
+6:create entity classes,model classes,util,dao,authentication classes
+
+7:create spring mvc validators
+
+8:login classes
+
+9:spring controller
+
+10:jsp files
+
+11:run appln
+	Enter:
+Name: Run Spring MVC Shopping Cart
+Base directory: ${workspace_loc:/SpringMVCAnnotationShoppingCart}
+Goals: tomcat7:run
+
+http://localhost:8080/SpringMVCAnnotationShoppingCart 
