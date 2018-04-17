@@ -1,0 +1,10 @@
+var myobj = {
+  'prop': 'hello',
+  'prop1': 123,
+  'prop2': true
+};
+console.log(myobj);
+//accessing property using dot[.] notation
+console.log('the number proerty is ' + myobj.prop1);
+//accessing property which using square bracket[] notation
+console.log('the proerty is' + myobj['prop1']);

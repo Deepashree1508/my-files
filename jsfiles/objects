@@ -1,0 +1,15 @@
+var person = {
+  "firstname":"deepa",
+  "middlename":"shree",
+  "lastname":null,
+  "age":22
+};
+
+
+console.log(person.age);
+console.log(person.name);
+console.log(person.lastname);
+/*
+Exception: SyntaxError: missing : after property id
+@Scratchpad/1:4
+*/

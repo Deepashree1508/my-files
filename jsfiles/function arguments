@@ -1,0 +1,72 @@
+var s="hello";
+
+//function declaration 
+function foo()
+{
+  console.log("helloooo");
+}
+
+---------------------------------
+
+//function expression
+var f=function foo(){
+  console.log("helloooo");
+};
+
+console.log(f);
+f();
+
+-------------------------------
+
+//anonymous function
+var f=function (){
+  console.log("helloooo");
+};
+f();
+
+
+//it doesnt work bcoz f is reinitialized
+f=1;
+f();
+-------------------------------------
+//nested functions
+var r=function(){
+  console.log("hai");
+};
+
+var executor =function(fn)
+{
+  console.log(fn);
+ 
+}
+//prints function declaration
+executor(r);
+------------------------------
+
+var s=function(){
+  console.log("hai");
+};
+
+var executor =function(fn)
+{
+  fn();
+ 
+}
+//prints function result
+executor(s);
+
+------------------------------------------
+//passing arguments
+var rs=function(name){
+  console.log("hai "+name);
+};
+
+var executor =function(fn,name)
+{
+ fn(name);
+ 
+}
+//prints function result
+executor(rs,"deepa");
+
+

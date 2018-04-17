@@ -1,0 +1,14 @@
+var myobj = {
+  "testprop":true
+  
+};
+
+myobj.mymethod = function(){
+  
+  console.log("function in object");
+  
+};
+
+myobj.mymethod();
+
+console.log(myobj);

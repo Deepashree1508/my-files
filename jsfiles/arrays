@@ -1,0 +1,44 @@
+function sayHello(){
+  console.log("hello ")
+  
+}
+
+sayHello();
+
+
+function sayHello1(name){
+  console.log("hello " + name)
+  
+}
+
+sayHello1("deepa");
+
+function sayHello2(name, timeofDay){
+  console.log("hello " + name + " time of day is "+timeofDay);
+  
+}
+
+sayHello2("deepa","afternoon");
+sayHello2("deepa","afternoon",453);
+
+
+function sayHello3(name, timeofDay){
+  return "hello " + name + " time of day is "+timeofDay;
+  
+}
+
+var returnvalue = sayHello3("deepa","evening");
+console.log(returnvalue);
+
+
+function sayHello4(name, timeofDay){
+  return ;
+  
+}
+
+var returnvalue = sayHello3("deepa","evening");
+console.log(returnvalue);
+
+
+
+
