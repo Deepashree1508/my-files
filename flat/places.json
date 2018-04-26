@@ -3,7 +3,7 @@
     "name": "Tipu Sultan's Summer Palace",
     "imageUrl": "http://www.indtravel.com/bang/graphic6/summerpalace.jpg",
     "price": 164,
-    "priceCurrency": "RS",
+    "priceCurrency": "Cr",
     "lat": 12.9593,
     "lng": 77.5736
   },
@@ -11,7 +11,7 @@
     "name": "Bangalore Palace",
     "imageUrl": "https://static2.tripoto.com/media/filter/nt/gen/311337/TripDocument/dsc_0778.jpg",
     "price": 200,
-    "priceCurrency": "RS",
+    "priceCurrency": "Cr",
     "lat": 12.9716,
     "lng": 77.5946
   },
@@ -19,7 +19,7 @@
     "name": "ISKCON Temple Bangalore",
     "imageUrl": "https://www.webindia123.com/user_interaction/asp/article/upload//3157/iskcon-temple-night-view_Thumb.jpg",
     "price": 150,
-    "priceCurrency": "RS",
+    "priceCurrency": "Cr",
     "lat": 13.0101,
     "lng": 77.5511
   },
@@ -27,7 +27,7 @@
     "name": "Wonderla Amusment park",
     "imageUrl": "https://asiatourism.co/wp-content/uploads/2017/11/Ocean_Park_Tour_Including_Cable_Car_Ride_with_Hotel_Transfers_1.jpg",
     "price": 115,
-    "priceCurrency": "RS",
+    "priceCurrency": "Cr",
     "lat": 12.833895,
     "lng": 77.400913
   },
@@ -35,7 +35,7 @@
     "name": "Leela palace bangalore",
     "imageUrl": "https://maps.mapmyindia.com/place/C0000001314.jpg",
     "price": 135,
-    "priceCurrency": "RS",
+    "priceCurrency": "Cr",
     "lat": 12.9607,
     "lng": 77.6487
   },
@@ -43,7 +43,7 @@
     "name": "Glass House",
     "imageUrl": "https://focuztours.files.wordpress.com/2012/12/bangalore-tourist-places.jpg",
     "price": 90,
-    "priceCurrency": "RS",
+    "priceCurrency": "Cr",
     "lat": 12.949912,
     "lng": 77.582545
   }
