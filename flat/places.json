@@ -1,7 +1,7 @@
 [
   {
     "name": "Tipu Sultan's Summer Palace",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reflections_at_Tipu_Sultan%27s_Palace.JPG/120px-Reflections_at_Tipu_Sultan%27s_Palace.JPG",
+    "imageUrl": "http://www.indtravel.com/bang/graphic6/summerpalace.jpg",
     "price": 164,
     "priceCurrency": "RS",
     "lat": 12.9593,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Bangalore Palace",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bangalore_palace.jpg/240px-Bangalore_palace.jpghttps://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bangalore_palace.jpg/240px-Bangalore_palace.jpg",
+    "imageUrl": "https://static2.tripoto.com/media/filter/nt/gen/311337/TripDocument/dsc_0778.jpg",
     "price": 200,
     "priceCurrency": "RS",
     "lat": 12.9716,
