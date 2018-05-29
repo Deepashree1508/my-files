@@ -1,0 +1,13 @@
+var myarray=[100,132,3424];
+console.log(myarray[0]);
+console.log(myarray[1]);
+console.log(myarray[2]);
+console.log(myarray[3]);
+
+
+var str=["hai","hello"];
+console.log(str[0]);
+console.log(str[1]);
+console.log(str[2]);
+
+myarray[3]="myjava";

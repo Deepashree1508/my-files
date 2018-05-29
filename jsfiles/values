@@ -1,0 +1,13 @@
+var mystring="hello";
+
+var myobj={ };
+
+console.log(myobj);
+//properties can be added on fly
+myobj.prop="hello";
+//properties can be any type
+console.log(myobj);
+//properties are stored in key and value pair
+myobj.prop2="hai";
+
+console.log(myobj);

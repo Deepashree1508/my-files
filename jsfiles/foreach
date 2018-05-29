@@ -1,0 +1,8 @@
+var myarray=[1,2,3,4,5];
+
+
+var myfunction = function(item ,index,array){
+  console.log("for an element ");
+  console.log(item+" "+index+"  "+array);
+};
+myarray.forEach(myfunction);

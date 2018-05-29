@@ -1,0 +1,17 @@
+var myobj = {
+  "prop": "hello",
+  "prop1": 123 ,
+  "prop2": true
+};
+
+console.log(myobj);
+
+
+
+console.log("the number proerty is " + myobj.prop1;
+
+console.log("the proerty is" + myobj.prop4);
+/*
+Exception: SyntaxError: missing ) after argument list
+@Scratchpad/1:1
+*/

@@ -1,0 +1,29 @@
+var person = {
+  "firstname":"deepa",
+  "lastname":"shree",
+  "getfullname":function() {
+    return this.firstname+" "+this.lastname;
+  },
+   "address":{
+    "street":"7th cross",
+    "city":"bangalore",
+     "state":"karnataka"
+  },
+  "isFromState":function(state){
+ /* if(this.address.state === state)
+    {
+      return true;
+    }
+    else 
+      {
+        return false;
+      }*/
+    //or
+    
+   return (this.address.state === state);
+}
+ 
+};
+
+var rs=person.isFromState("karna");
+console.log(rs);

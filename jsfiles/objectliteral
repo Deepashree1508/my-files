@@ -1,0 +1,18 @@
+var myobj = {
+  "prop": "hello",
+  "prop1": 123 ,
+  "prop2": true,
+  "objprop": {
+    "innerprop":"inner property"
+  }
+};
+
+console.log(myobj.objprop.innerprop);
+
+myobj.objprop.newinner="new inner";
+
+console.log(myobj.objprop.innerprop);
+/*
+Exception: ReferenceError: innerprop is not defined
+@Scratchpad/1:14:1
+*/
