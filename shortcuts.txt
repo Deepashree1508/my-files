@@ -1,0 +1,16 @@
+ for shortcuts:  ::: https://www.hongkiat.com/blog/100-keyboard-shortcuts-windows/
+
+cmd prompt:::   https://www.howtogeek.com/254401/34-useful-keyboard-shortcuts-for-the-windows-command-prompt/
+
+https://shortcutworld.com/Windows-Run-Commands/win/Windows-Run-Commands_Shortcuts
+
+
+reopen previous windows: ctrl+shift+t
+goto previous location inbrowser: alt+<--
+select address bar: crtl+L
+windows start menu: crtl+esc
+lock the pc: crtl+L
+bookmark page: crtl+d
+to maximize window: windows key + up arrow
+show bookmarkslist: crtl+shift+b/o
+send mail:  alt+s / crtl+enter
