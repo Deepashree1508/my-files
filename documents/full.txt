@@ -914,8 +914,8 @@ public class ProductInfo {
         this.price = product.getPrice();
     }
  
-    // KhÙng thay d?i Constructor n‡y,
-    // nÛ du?c s? d?ng trong Hibernate query.
+    // Kh√¥ng thay d?i Constructor n√†y,
+    // n√≥ du?c s? d?ng trong Hibernate query.
     public ProductInfo(String code, String name, double price) {
         this.code = code;
         this.name = name;
@@ -1142,7 +1142,7 @@ public class OrderDAOImpl implements OrderDAO {
         }
  
         // Set OrderNum for report.
-        // Set OrderNum d? thÙng b·o cho ngu?i d˘ng.
+        // Set OrderNum d? th√¥ng b√°o cho ngu?i d√πng.
         cartInfo.setOrderNum(orderNum);
     }
  
@@ -1266,7 +1266,7 @@ public class ProductDAOImpl implements ProductDAO {
             this.sessionFactory.getCurrentSession().persist(product);
         }
         // If error in DB, Exceptions will be thrown out immediately
-        // N?u cÛ l?i t?i DB, ngo?i l? s? nÈm ra ngay l?p t?c
+        // N?u c√≥ l?i t?i DB, ngo?i l? s? n√©m ra ngay l?p t?c
         this.sessionFactory.getCurrentSession().flush();
     }
  
@@ -1664,7 +1664,7 @@ public class MainController {
     }
  
     // Product List page.
-    // Danh s·ch s?n ph?m.
+    // Danh s√°ch s?n ph?m.
     @RequestMapping({ "/productList" })
     public String listProductHandler(Model model, //
             @RequestParam(value = "name", defaultValue = "") String likeName,
